@@ -5,7 +5,7 @@ html, body{
 	font-family: 'Roboto', sans-serif;
 }
 .top-container{
-	padding-top: 5%;
+	padding-top: 3%;
 }
 .general-container{
 	/*background: url('../img/bg_image.jpg') no-repeat;  */
@@ -21,7 +21,7 @@ html, body{
 }
 .general-container form label{
 	color: black;
-	font-weight: 600;
+	font-weight: 400;
 }
 
 .btn-orange{
@@ -34,9 +34,9 @@ html, body{
 }
 
 .title{
-	color: red;
-	text-align: center;
-	font-weight: 700;
+	color: black;
+	text-align: left;
+	font-weight: 400;
 	line-height: 50px;
 }
 
